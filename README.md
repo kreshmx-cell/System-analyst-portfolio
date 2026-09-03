@@ -1,4 +1,4 @@
-Пример работы:  
+Пример работы:    
 
 BPMN: https://stormbpmn.com/app/diagram/a66ccbf0-ef21-457f-99b3-552e85dd624a  
 
